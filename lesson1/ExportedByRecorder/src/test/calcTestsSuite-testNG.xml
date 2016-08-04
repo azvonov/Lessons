@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="LiganetcalcsTestNg" verbose="1" >
+
+    <test name="com.example.tests.DepositCalc" >
+        <classes>
+            <class name="com.example.test.DepositCalc" />
+        </classes>
+    </test>
+
+    <test name="com.example.tests.CreditCalc" >
+        <classes>
+            <class name="com.example.test.CreditCalc" />
+        </classes>
+    </test>
+
+</suite>
