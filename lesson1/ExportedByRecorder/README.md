@@ -1,4 +1,4 @@
-Lesson 1
+Lesson_1 Selenium IDE. Task
 ----
 ## Lecture
 
