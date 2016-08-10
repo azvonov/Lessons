@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="parametrized">
+    <test name="Regression p1">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="OS" value="Windows"/>
+        <classes>
+            <class name="parameters.ParametersExample"/>
+        </classes>
+    </test>
+</suite>
