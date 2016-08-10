@@ -10,9 +10,9 @@ Lesson 1 – Selenium IDE
 ### Preconditions:
 Для успешного прохождения задания вам необходимо установить: 
 
-1. (Oracle JDK)[http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html]
-2. (Firefox и плагин к нему Selenium IDE)[https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/]
-3. (Maven)[https://maven.apache.org/download.cgi] (Руководство по установке Maven)[http://www.apache-maven.ru/install.html]
+1. [Oracle JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+2. [Firefox и плагин к нему Selenium IDE](https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/)
+3. [Maven](https://maven.apache.org/download.cgi) [Руководство по установке Maven](http://www.apache-maven.ru/install.html)
 
 
 ### С помощью Selenium IDE необходимо создать тестовый набор (suit).
@@ -22,14 +22,14 @@ Lesson 1 – Selenium IDE
 
 #### Дополнительное задание для тех кому задание далось легко: 
 
-* Создайте новый проект в среде разработки (IntelijIdea)[https://www.jetbrains.com/idea/download/]. 
+* Создайте новый проект в среде разработки [IntelijIdea](https://www.jetbrains.com/idea/download/). 
 * Добавьте в него экспортированный из Selenium IDE код.
 * Запустите тесты из среды разработки.
 
 ---
 ## Тест 1 – Депозитный калькулятор
 
-(http://finance.liga.net/finmarket/calculators.htm)[http://finance.liga.net/finmarket/calculators.htm]
+[http://finance.liga.net/finmarket/calculators.htm](http://finance.liga.net/finmarket/calculators.htm)
 ```
 Инпуты:
 Введите сумму вклада – 500 000
@@ -46,7 +46,7 @@ Lesson 1 – Selenium IDE
 ```
 ## Тест 2 – Кредитный калькулятор
 
-(http://finance.liga.net/finmarket/calculators.htm)[http://finance.liga.net/finmarket/calculators.htm]
+[http://finance.liga.net/finmarket/calculators.htm](http://finance.liga.net/finmarket/calculators.htm)
 ``` 
 Инпуты
 Введите сумму кредита – 1 000 000
