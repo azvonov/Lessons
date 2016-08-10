@@ -9,7 +9,7 @@ Lesson 3
 ----
 ##Домашнее задание:
 
-###Сценарий 1 Salary Calculator
+###1. Salary Calculator Scenario
 
 На сайте [http://www.paycheckcity.com](http://www.paycheckcity.com)  в разделе `/calculator/salary/`
 задайте следующие параметры в форме расчета налогов:
@@ -28,7 +28,7 @@ I am exempt from federal Tax = true
 * В результирующей таблице, проверьте величину рассчитаного `NetPay`.
 *(В моем случае она равна `$8,387.79`)
 
-###Сценарий 2 Hourly Calculator
+###2. Hourly Calculator Scenario
 
 На сайте: [http://www.paycheckcity.com](http://www.paycheckcity.com), в разделе `/calculator/hourly/`, в блоке `Rates information`, задайте следующие значения:
 ```
