@@ -1,1 +1,1 @@
-# qaa-tasks
+# Home tasks Test Automation course
