@@ -1,6 +1,15 @@
-Домашнее задание:
+Lesson_3
+----
+##Лекции:
 
-Сценарий 1 Salary Calculator
+**Video Link** [Webinar Video 3](https://youtu.be/A625Zq_5cR4) 
+
+**Presentation** [Presentation](https://www.dropbox.com/s/6afk3lkk12083ya/)
+
+----
+##Домашнее задание:
+
+###Сценарий 1 Salary Calculator
 
 на сайте http://www.paycheckcity.com  в разделе /calculator/salary/
 задайте следующие параметры в форме расчета налогов 
@@ -19,7 +28,7 @@ I am exempt from federal Tax = true
 В рзультирующей таблице проверьте величину рассчитаного  NetPay
 (В моем случае она равна $8,387.79)
 
-Сценарий 2 Hourly Calculator
+###Сценарий 2 Hourly Calculator
 
 на сайте http://www.paycheckcity.com  в разделе /calculator/hourly/
 В блоке Rates information задайте следующие значения.
@@ -39,7 +48,8 @@ Hours #2 = 8
 Добавьте написанные тесты в группы P1 и regression
 Запустите тесты с помощью testng.xml
 
-Дополнительное задание для тех кому легко:  
+
+####Дополнительное задание для тех кому легко:  
 организуйте тестовые данные с помощью DataProvider. 
 Свяжите DataProvider с вашими тестами
 Добавьте еще один набор тестовых данных в ваш DataProvider таким образом, 
