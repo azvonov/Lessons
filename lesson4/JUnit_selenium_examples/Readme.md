@@ -2,9 +2,9 @@ Lesson 4
 ----
 ## Lecture
 
-**Video Link** 
+**Video Link** [Webinar Video 4](https://youtu.be/3uNB00YOjcs)
 
-**Presentation** -- https://www.dropbox.com/s/ep4y0t494zsgy92/Selenium%20017%20leson%204.pptx?dl=0 
+**Presentation** -- https://www.dropbox.com/s/ep4y0t494zsgy92/
 
 ----
 ## Homework
