@@ -35,6 +35,7 @@ I am exempt from federal Tax = false
 
 NetPay result = $49,701.43
 ```
+### 1. Matchers
 Проверку значения NetPay организуйте с помощь Hamcrest matchers
 Используйте матчер CloseTo c трешхолдом  $5
 
