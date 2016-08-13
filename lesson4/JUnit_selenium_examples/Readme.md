@@ -57,5 +57,5 @@ NetPay result = $49,701.43
 * Пумб - 1539 грн
 * Альфа банк - 1498 грн
 ```
-Организуйте проверки с помощью JUnit Rule ErrorCollector
+* Организуйте проверки с помощью JUnit Rule ErrorCollector
 
