@@ -13,7 +13,7 @@ Lesson 4
 
 Взяв за основу домашнее задание №3,  добавьте к имеющемуся сценарию дополнительные наборы тестовых данных. 
 Организуйте тест в формате JUnit Parametrized.   
-
+```
 --DataSet1--
 CheckDate - 12/31/2016
 State - Alaska
@@ -23,9 +23,9 @@ Pay Frequency - Weekly
 I am exempt from federal Tax = false
 
 NetPay result = $1,422.37
-
+```
 --DataSet2--
-
+```
 CheckDate - 12/31/2017
 State - Hawaii
 GrossPay - 75000
@@ -34,7 +34,6 @@ Pay Frequency - Annual
 I am exempt from federal Tax = false
 
 NetPay result = $49,701.43
-
 ```
 Проверку значения NetPay организуйте с помощь Hamcrest matchers
 Используйте матчер CloseTo c трешхолдом  $5
