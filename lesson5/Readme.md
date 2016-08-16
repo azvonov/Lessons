@@ -4,7 +4,7 @@ Lesson 5
 
 **Video Link** 
 
-**Presentation** 
+**Presentation** -- https://www.dropbox.com/s/3p0q894wmjspqwq/Selenium%20017%20leson%205.pptx?dl=0
 
 ----
 ## Homework
