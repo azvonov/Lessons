@@ -2,9 +2,9 @@ Lesson 5
 ----
 ## Lecture
 
-**Video Link** 
+**Video Link** [Webinar Video 5](https://youtu.be/XFETJOFXhis) 
 
-**Presentation** -- https://www.dropbox.com/s/3p0q894wmjspqwq/Selenium%20017%20leson%205.pptx?dl=0
+**Presentation** -- https://www.dropbox.com/s/3p0q894wmjspqwq/
 
 ----
 ## Homework
