@@ -13,4 +13,4 @@ Lesson 6
 
 Перепишите тест по Trello из урока 3, используя шаблон проектирования PageObject
 
-[https://github.com/frontend-science/qaa-tasks/tree/master/lesson3/trello_files]
+(https://github.com/frontend-science/qaa-tasks/tree/master/lesson3/trello_files)
