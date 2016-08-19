@@ -4,7 +4,7 @@ Lesson 6
 
 **Video Link** 
 
-**Presentation** [Presentation 3](https://www.dropbox.com/s/6afk3lkk12083ya/)
+**Presentation** [Presentation 6](https://www.dropbox.com/s/6afk3lkk12083ya/)
 
 ----
 ## Homework
