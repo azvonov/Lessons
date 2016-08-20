@@ -2,7 +2,7 @@ Lesson 6
 ----
 ## Lecture
 
-**Video Link** 
+**Video Link** [Lesson 6] (https://youtu.be/1c3m1WuC2Vk)
 
 **Presentation** [Presentation 6](https://www.dropbox.com/s/6afk3lkk12083ya/)
 
