@@ -3,7 +3,7 @@
 
 **Video Link** [Lesson 7] ( https://youtu.be/1upssx2RnH8)
 
-**Presentation**  На этот раз ничего нового :(
+**Presentation**  Хватит теории! Перейдем к практике!:)
 
 ----
 ## Homework
