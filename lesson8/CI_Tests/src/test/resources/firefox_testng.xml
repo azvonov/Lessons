@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SalaryPayment" verbose="1">
+    <parameter name="browser" value="firefox"/>
+    <test name="salaryCalculator">
+        <classes>
+            <class name="TestFF"/>
+        </classes>
+    </test>
+</suite>

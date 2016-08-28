@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SalaryPayment" parallel="tests" thread-count="2">
+    <test name="salaryCalculator_1">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="isGrid" value="true"/>
+        <classes>
+            <class name="TestFF"/>
+        </classes>
+    </test>
+    <test name="salaryCalculator_2">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="isGrid" value="true"/>
+        <classes>
+            <class name="TestFF"/>
+        </classes>
+    </test>
+</suite>
